@@ -1,0 +1,26 @@
+# Análisis de Tiendas de Venta
+
+## Descripción
+Este proyecto tiene como objetivo realizar un análisis comparativo entre varias tiendas de ventas online. Utilizando datos sobre productos, ventas, categorías, calificaciones de clientes y costes de envío, buscamos ayudar al Sr. Juan a decidir cuál tienda es la mejor opción para comenzar a vender, basándonos en la rentabilidad, satisfacción del cliente y costos operativos.
+
+El análisis incluye la comparación de tiendas en varios aspectos clave:
+- Ingresos totales.
+- Categorías de productos más y menos vendidas.
+- Calificaciones promedio de los clientes.
+- Productos más y menos vendidos.
+- Costo de envío promedio.
+
+## Tecnologías y Dependencias
+Este proyecto ha sido desarrollado en **Python 3.11.12** y utiliza las siguientes librerías y tecnologías:
+
+- **Python 3.11.12**
+- **Pandas**: Para la manipulación y análisis de datos.
+- **Matplotlib**: Para la visualización de datos.
+
+## Instalación
+
+### Requisitos
+Asegúrate de tener **Python 3.11.12** instalado en tu entorno de trabajo. Si no estás seguro de cuál versión de Python estás usando, puedes verificarla ejecutando el siguiente comando en tu terminal o notebook:
+
+```bash
+python --version
